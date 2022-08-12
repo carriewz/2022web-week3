@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/pages/j_ndex.scss"
+    ],
+    "names": [],
+    "file": "j_ndex.css"
+}
